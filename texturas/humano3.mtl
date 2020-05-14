@@ -1,0 +1,45 @@
+newmtl male05:FrontColorNoCullingID_male_02_1noCulling_JP
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.80 0.80 0.80
+Tf 1.00 1.00 1.00
+map_Kd male-02-1noCulling.dds
+Ni 1.00
+Ks 0.05 0.05 0.05
+Ns 30.00
+newmtl male05:FrontColorNoCullingID_orig_02___Defaul1noCu
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.80 0.80 0.80
+Tf 1.00 1.00 1.00
+map_Kd orig_02_-_Defaul1noCulling.dds
+Ni 1.00
+Ks 0.05 0.05 0.05
+Ns 30.00
+newmtl male05:_01___Default1noCulli__01___Default1noCulli
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.64 0.64 0.64
+Tf 1.00 1.00 1.00
+map_Kd 01_-_Default1noCulling.dds
+Ni 1.00
+Ks 0.05 0.05 0.05
+Ns 30.00
+newmtl male05:male_02_1noCullingID_male_02_1noCulling_JP
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.64 0.64 0.64
+Tf 1.00 1.00 1.00
+map_Kd clothes.psd
+Ni 1.00
+Ks 0.05 0.05 0.05
+Ns 30.00
+newmtl male05:orig_02___Defaul1noCu_orig_02___Defaul1noCu
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.64 0.64 0.64
+Tf 1.00 1.00 1.00
+map_Kd orig_02_-_Defaul1noCulling.dds
+Ni 1.00
+Ks 0.05 0.05 0.05
+Ns 30.00
